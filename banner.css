@@ -1,0 +1,8 @@
+@media screen and (min-width: 1728px) {
+    /* Código omitido */
+  
+    .banner__pesquisa::placeholder {
+      background-position: 12em;
+    }
+  }
+  
